@@ -4,7 +4,12 @@
 
 本文主要介绍语音合成 Demo 运行方法。
 
+
 ## 如何运行语音合成 Demo
+
+首先需要下载android_tts_models_230316.tar.gz 解压assets和jniLibs到app/src/main目录下。
+
+下载链接: https://pan.baidu.com/s/1jfxWKBODNY91bmzAHG5Z1Q?pwd=7nes 提取码: 7nes
 
 ### 环境准备
 
