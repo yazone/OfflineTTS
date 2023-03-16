@@ -15,5 +15,7 @@
 # 当前进度
 - 2023-03-16：C++库编译完成，基本流程拉通，集成进Android Demo中，效果（小新同学音色）如下：
 
+（demo apk网盘下载: https://pan.baidu.com/s/1jfxWKBODNY91bmzAHG5Z1Q?pwd=7nes ）
+
 https://user-images.githubusercontent.com/10195479/225497883-13b5a835-0190-47f4-a821-a264b5ceff0e.mp4
 
