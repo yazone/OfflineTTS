@@ -1,7 +1,9 @@
 # 离线TTS（OfflineTTS）
 本项目将基于PaddleSpeech实现离线TTS（Offline TTS Based [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) for Linux and Android)，限于移动端内存和性能问题，将使用流式方式进行处理。
 
-非流式Android版本参考：[TTSAndroid](https://github.com/yt605155624/TTSAndroid)
+相关资源：
+- 非流式Android版本参考：[TTSAndroid](https://github.com/yt605155624/TTSAndroid)
+- 前端英文G2P(OOV)：[g2pE_mobile](https://github.com/yazone/g2pE_mobile)
 
 # 计划
 1、实现Android流式TTS（进行中）
